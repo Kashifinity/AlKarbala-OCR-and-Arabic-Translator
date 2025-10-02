@@ -1,0 +1,5 @@
+{
+  "name": "AI OCR & Arabic Translator",
+  "description": "An AI-powered platform to perform OCR on scanned images and accurately translate extracted Arabic text into English.",
+  "requestFramePermissions": []
+}
